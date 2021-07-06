@@ -63,3 +63,5 @@ app.delete('/happiness/:id', function(req, res) {
 });
 
 // Update - PUT
+// NOTE for our workshop we didn't cover this as there would be middleware or mongodb involved since we need to store the data more effectively.
+//Would make a good extensions
